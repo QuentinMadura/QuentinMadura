@@ -1,6 +1,6 @@
 ### Hi there, I'm Quentin - aka Grimbsi 👋
 
-[![Website]()](https://quentin-madura.io)
+(https://quentin-madura.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Grimbsi_io?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Grimbsi_io)
 
 ## I'm a Developer !
@@ -25,6 +25,9 @@
 <br />
 ### 📕 Latest Blog Posts
 🏗️
+<br />
+<br />
+
 ----------------
 ### Github Stats
 ----------------
