@@ -5,9 +5,9 @@
 
 ## I'm a Developer !
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working at TeleScoop [website]!
 - 🌱 I’m currently learning about machine learning
-- 🥅 2020 Goals: Continue to grow on development and try to pass the Stanford certification on machine learning. 
+- 🥅 2020 Goals: Continue to grow on development  and try to pass the Stanford certification on machine learning. 
 - ⚡ Fun fact: I love to hike and to ride mountain cycle
 
 ### Spotify Playing 🎧
