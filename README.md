@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love to hike and to ride mountain cycle
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/11167551803)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Quentin Madura Spotify Playing" width="350" />](https://open.spotify.com/user/11167551803)
 
 ### Connect with me:
 
