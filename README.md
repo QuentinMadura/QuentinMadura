@@ -1,7 +1,7 @@
 ### Hi there, I'm Quentin - aka Grimbsi 👋
 
 [![Website]()](https://quentin-madura.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Grimbsi_io)
+[![Twitter Follow](https://img.shields.io/twitter/follow/QuentinMadura?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Grimbsi_io)
 
 ## I'm a Developer !
 
