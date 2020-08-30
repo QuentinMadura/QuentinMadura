@@ -5,7 +5,7 @@
 
 ## I'm a Developer !
 
-- 🔭 I’m currently working at TeleScoop [website](http://telescoop.fr/)!
+- 🔭 I’m currently working with TeleScoop !
 - 🌱 I’m currently learning about machine learning
 - 🥅 2020 Goals: Continue to grow on development  and try to pass the Stanford certification on machine learning. 
 - ⚡ Fun fact: I love to hike and to ride mountain cycle
@@ -21,6 +21,7 @@
 <br />
 
 ### Languages and Tools:
+Mainly, I prefer the python langage as a back-end technology coupled with a Vue stack on the front-end.
 <br />
 <br />
 ### 📕 Latest Blog Posts
