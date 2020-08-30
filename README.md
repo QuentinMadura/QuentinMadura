@@ -21,11 +21,11 @@
 <br />
 
 ### Languages and Tools:
-Mainly, I prefer the python langage as a back-end technology coupled with a Vue stack on the front-end.
+Mainly, I prefer the python langage as a back-end technology coupled with a Vue stack on the front-end. I'm curious about GoLang.
 <br />
 <br />
 ### 📕 Latest Blog Posts
-🏗️
+🏗️ Incoming
 <br />
 <br />
 
