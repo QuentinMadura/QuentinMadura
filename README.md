@@ -1,6 +1,6 @@
 ### Hi there, I'm Quentin - aka Grimbsi 👋
 
-(https://quentin-madura.io)
+[https://img.shields.io/badge/website-QuentinMadura-1DA1F2](https://quentin-madura.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Grimbsi_io?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Grimbsi_io)
 
 ## I'm a Developer !
