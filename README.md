@@ -1,4 +1,4 @@
-### Hi there, I'm Quentin - aka Grimbsi 👋
+### Hi there, I'm Quentin 👋
 
 [![Quentin](https://img.shields.io/badge/website-QuentinMadura-1DA1F2)](https://quentin-madura.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Grimbsi_io?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Grimbsi_io)
@@ -9,9 +9,6 @@
 - 🌱 I’m currently learning about machine learning
 - 🥅 2020 Goals: Continue to grow on development  and try to pass the Stanford certification on machine learning. 
 - ⚡ Fun fact: I love to hike and to ride mountain cycle
-
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Quentin Madura Spotify Playing" width="350" />](https://open.spotify.com/user/11167551803)
 
 ### Connect with me:
 
