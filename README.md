@@ -3,13 +3,6 @@
 [![Quentin](https://img.shields.io/badge/website-QuentinMadura-1DA1F2)](https://quentin-madura.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Grimbsi_io?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Grimbsi_io)
 
-## Developer
-
-- 🔭 I’m currently working with TeleScoop !
-- 🌱 I’m currently learning about machine learning
-- 🥅 2020 Goals: Continue to grow on development  and try to pass the Stanford certification on machine learning. 
-- ⚡ Fun fact: I love to hike and to ride mountain cycle
-
 ### Connect with me:
 
 [<img align="left" alt="QuentinMadura" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
