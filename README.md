@@ -1,5 +1,6 @@
 ### Hi 👋
 
+I'm Quentin, developer based in Paris. 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=quentinmadura&theme=dracula)]()
 
